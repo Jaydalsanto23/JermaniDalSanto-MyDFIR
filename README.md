@@ -1,5 +1,5 @@
 # Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/jermnai-dal-santo-6a9453184"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
@@ -8,7 +8,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in technology and belief in the right to privacy have fueled my passion for cybersecurity, and I am now highly motivated to transition into this field. Additionally, I have a strong interest in areas such as automation, developing tools to simplify tasks, and expanding my knowledge in software development.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
