@@ -15,11 +15,11 @@ My journey in technology and belief in the right to privacy have fueled my passi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          |Guessing Game |
+| Incident Response and Network Security |NIST Cybersecurity Framework to respond to a security incident |
+| monitor, analyze, and investigate network traffic        | Analyze packet with Wireshark|
+| Incident Response Planning and Execution      | Managing File promission|
+| Case Management with TheHive                  | Python Automation|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 
@@ -34,10 +34,11 @@ My journey in technology and belief in the right to privacy have fueled my passi
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Chronicle-black?style=flat-square&logo=Google%20Chronicle&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 
 <img src="https://img.shields.io/badge/Google%20Cybersecurity-brightgreen?style=flat-square&logo=google"/>
@@ -45,5 +46,7 @@ My journey in technology and belief in the right to privacy have fueled my passi
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Guessing game 
+- Managing File promission
+- Python Automation
+- Security Incident using NIST Framework 
