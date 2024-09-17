@@ -15,7 +15,7 @@ My journey in technology and belief in the right to privacy have fueled my passi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          |<a href="https://github.com/Jaydalsanto23/Guessing-Game">Guessing Game</a>|
+| Python: Input & Variables, Loops, Decsions, Function       |<a href="https://github.com/Jaydalsanto23/Guessing-Game">Guessing Game</a>|
 | Incident Response and Network Security |NIST Cybersecurity Framework to respond to a security incident |
 | monitor, analyze, and investigate network traffic        | Analyze packet with Wireshark|
 | Incident Response Planning and Execution      | Managing File promission|
