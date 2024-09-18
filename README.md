@@ -19,7 +19,7 @@ My journey in technology and belief in the right to privacy have fueled my passi
 | Incident Response and Network Security |NIST Cybersecurity Framework to respond to a security incident |
 | monitor, analyze, and investigate network traffic        | Analyze packet with Wireshark|
 | Incident Response Planning and Execution      | Managing File promission|
-| Python: File handling, string manipulation, list operations, iteration and conditionals, joining strings, debugging, file path management, maintainable code. | Python Automation|
+| Python: File handling, string manipulation, list operations, iteration and conditionals, joining strings, debugging, file path management, maintainable code. | <a href="https://github.com/Jaydalsanto23/Python-Automation/tree/main">Python Automation|
 |  | |
 
 
