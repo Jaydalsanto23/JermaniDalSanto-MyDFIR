@@ -18,7 +18,7 @@ My journey in technology and belief in the right to privacy have fueled my passi
 | Python: Input & Variables, Loops, Decsions, Function       |<a href="https://github.com/Jaydalsanto23/Guessing-Game">Guessing Game</a>|
 | Incident Response and Network Security |NIST Cybersecurity Framework to respond to a security incident |
 | monitor, analyze, and investigate network traffic        | Analyze packet with Wireshark|
-| Examine file and directory permissions, change permissions on files,change permissions on directories  | <a href="https://github.com/Jaydalsanto23/Managing-Authorization-/edit/main/README.md">Managing File promission |
+| Examine file and directory permissions, change permissions on files,change permissions on directories  | <a href="https://github.com/Jaydalsanto23/Managing-Authorization-/edit/main/README.md">Managing File Permission |
 | Python: File handling, string manipulation, list operations, iteration and conditionals, joining strings, debugging, file path management, maintainable code. | <a href="https://github.com/Jaydalsanto23/Python-Automation/tree/main">Python Automation|
 |  | |
 
